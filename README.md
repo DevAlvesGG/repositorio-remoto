@@ -27,6 +27,3 @@ Se quiser trocar ideias, compartilhar conhecimento ou apenas bater um papo sobre
 
 - 📩 **E-mail:** [gustavodevgarcia@gmail.com](mailto:gustavodevgarcia@gmail.com)  
 - 🐙 **GitHub:** [Confira meus projetos](https://github.com/DevAlvesGG)  
-
-
-teste
